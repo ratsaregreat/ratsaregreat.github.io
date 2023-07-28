@@ -1,0 +1,89 @@
+body {
+    background-color: peachpuff;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-style: italic;
+}
+h1 {
+  font-style: italic;
+  text-decoration: underline
+}
+li {
+  font-style: italic;
+}
+  img{
+    width:200px;
+    height:auto;
+  }
+#beatiful{
+  
+}
+
+div{
+  margin:20px;
+  padding:5px;
+    border-color: salmon;
+    border-style: double;
+    border-width:10px 10px 10px 10px;
+    border-radius:29px;
+}
+.red {
+  background-color: red;
+  width: 500px;
+  height: 100px;
+   padding:0px;
+  margin:0px;
+}
+.orange {
+  background-color: orange;
+  width: 500px;
+  height: 100px;
+  padding:0px;
+  margin:0px;
+}
+.yellow {
+  background-color: yellow;
+  width: 500px;
+  height: 100px;
+  padding:0px;
+  margin:0px;
+}
+  .green {
+  background-color: green;
+  width: 500px;
+  height: 100px;
+  padding:0px;
+  margin:0px;
+}
+ .blue {
+  background-color: blue;
+  width: 500px;
+  height: 100px;
+  padding:0px;
+  margin:0px;
+}
+ .purple {
+  background-color: purple;
+  width: 500px;
+  height: 100px;
+  padding:0px;
+  margin:0px;
+}
+
+
+#navigation_bar {
+display:flex;
+background-color: lightcyan;
+margin-bottom: 20px
+}
+
+.selection {
+  padding: 10px;
+  margin: 0px;
+  border: 3px double salmon;
+  backround-color: white;
+  cursor: pointer;
+}
